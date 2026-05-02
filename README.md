@@ -161,7 +161,7 @@ This project compares Greedy and Dynamic Programming approaches for solving the 
 
 ##  Authors
 
-Teja Ganugula
+Teja Ganugula, 
 Gollamudi Jaya Sai Rohan
 ---
 
